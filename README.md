@@ -5,9 +5,9 @@ This page contains the architectural and simulation models to replicate the resu
 At the following [link](https://www.google.com) it is possible to download the simulation models. To run the co-simulation follow the following steps:
 
 1. The downloaded folder contains the ITS workspace. Import the workspace as Eclipse Moven projects.
-2. The main file to run the experiments is: *se.mida.mecsyco.Main* in the project *MovsimCosim*
+2. The main file to run the experiments is: *se.mida.main.Main* in the project *MovsimYCalc*
 3. In the program arguments you should indicate the number of vehicles per hour you want to experiment with (e.g., 1100)
-4. The *conf* folder contains all the different configurations for the experimented scenarios. In the main file you can point to different configurations.
+4. The *conf* in *MovsimCosim* folder contains all the different configurations for the experimented scenarios. In the main file must point to the concrete configuration you want to experiment with
 5. All the results are presented after the end of the simulation
 
 
