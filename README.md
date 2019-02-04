@@ -14,7 +14,7 @@ At the following [link](https://lnu.app.box.com/s/3iofyvxec5qpabg12yyk94bicz6fjz
 
 
 <p align="center">
-  <img height="600" src='images/simulation.png'/>
+  <img height="550" src='images/simulation.png'/>
 </p>
 
 
