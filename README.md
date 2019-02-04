@@ -12,7 +12,7 @@ At the following [link](https://www.google.com) it is possible to download the s
 
 
 <p align="center">
-  <img height="280" src='images/simulation.png'/>
+  <img height="600" src='images/simulation.png'/>
 </p>
 
 
