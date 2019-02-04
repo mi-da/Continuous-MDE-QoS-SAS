@@ -12,7 +12,7 @@ At the following [link](https://www.google.com) it is possible to download the s
 
 
 <p align="center">
-  <img height="280" src='images/Fig5.3dpapers-2.png'/>
+  <img height="280" src='images/simulation.png'/>
 </p>
 
 
