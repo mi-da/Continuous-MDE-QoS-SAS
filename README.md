@@ -4,7 +4,7 @@ This page contains the architectural and simulation models to replicate the resu
 # Architectural Models
 
 # Simulation Models
-At the following [link](https://www.google.com) it is possible to download the simulation models. To run the co-simulation follow the following steps:
+At the following [link](https://lnu.app.box.com/s/3iofyvxec5qpabg12yyk94bicz6fjzey) it is possible to download the simulation models. To run the co-simulation follow the following steps:
 
 1. The downloaded folder contains the ITS workspace. Import the projects in the workspace as Eclipse Moven projects
 2. The main file to run the experiments is: *se.mida.main.Main* in the project *MovsimYCalc*
