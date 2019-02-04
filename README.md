@@ -1,6 +1,8 @@
 # Continuous Model-based Engineering of QoS-Aware Self-adaptive Systems
 This page contains the architectural and simulation models to replicate the results of the paper: Continuous Model-based Engineering of QoS-Aware Self-adaptive Systems.
 
+# Architectural Models
+
 # Simulation Models
 At the following [link](https://www.google.com) it is possible to download the simulation models. To run the co-simulation follow the following steps:
 
