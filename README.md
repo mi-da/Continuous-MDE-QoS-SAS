@@ -28,7 +28,7 @@ First we did the analysis of the **Queueing Network** models that where enanched
 3. Set up the traffic flow you desired through the tool settings. Click on <img height="20" src='images/jmtscreenshot_02.png'/> to setup the arrival rates of the different job classes. Edit each class and instert either the *lambda* or the *mean* of the *Interarrival Time Distribution*. You can find all the traffic flow lambda we used in the `TrafficFlow_Lambdas_ArrivalRate.txt` file present in the source folder you downloaded. In this file you can find the lambda relative to the cars and ambulance with respect a Vechicle/hour traffic flow. Copy the traffic flow lambdas you want to execute in the tool.
 
 <p align="center">
-  <img height="550" src='images/jmtscreenshot_01.png'/>
+  <img height="450" src='images/jmtscreenshot_01.png'/>
 </p>
 
 4. After the simulation is set up, run it. The results collected are the system response times for each vehice type. The results are plotted while data are collected. The tool collects all the data and computes the minimum, maximum and average value for each performancce measure you selected, as shown in the following screenshot. We used always the average ones.
@@ -42,7 +42,7 @@ Second we did the analysis of the **Petri Net** where the movements and overtake
 2. Run the tool and select `Textual` to open the textual editor. Due to the size of the model, either in terms of nodes and links, the graphical editor is not powerful enough to let you work without lag. Instead, the textual one handles it. Moreover, through the tool navigate to the folder where you downloaded the source files and open the file `\ArchitecturalAnalysisModels\QN\PN_1600_2L_2LA.xml`. This file implements the two-look-ahead safty rule. For the three-look-ahead safty rule model open `\ArchitecturalAnalysisModels\QN\PN_1600_2L_3LA.xml`.
 3. Set up the traffic flow you desired through *Classes* tab where you can setup the arrival rates of the different job classes. Edit each class and instert either the *lambda* or the *mean* of the *Interarrival Time Distribution*. You can find all the traffic flow lambda we used in the `TrafficFlow_Lambdas_ArrivalRate.txt` file present in the source folder you downloaded. In this file you can find the lambda relative to the cars and ambulance with respect a Vechicle/hour traffic flow. Copy the traffic flow lambdas you want to execute in the tool.
 <p align="center">
-  <img height="420" src='images/jmtscreenshot_04.png'/>
+  <img height="400" src='images/jmtscreenshot_04.png'/>
 </p>
 
 4. After the simulation is set up, run it. The results collected are the system response times for each vehice type. The results are plotted while data are collected. The tool collects all the data and computes the minimum, maximum and average value for each performancce measure you selected, as shown in the following screenshot. We used always the average ones.
